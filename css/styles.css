@@ -38,3 +38,19 @@ address {
 .navbar-dark {
     background-color: #512dab;
 }
+
+.card-header {
+    background-color: orange;
+}
+
+.btn-btn-primary {
+    background-color: darkblue;
+    border-radius: 8px;
+}
+
+.tab-content {
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
